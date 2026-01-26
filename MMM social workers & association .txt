@@ -1,0 +1,120 @@
+Codes
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>MMM Social Workers & Associates</title>
+  <meta name="description" content="Professional social work and counselling services including family, trauma, addiction and employee wellness support.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f4f6f8;
+      color: #333;
+    }
+
+    header {
+      background: #2f6f6a;
+      color: white;
+      padding: 30px;
+      text-align: center;
+    }
+
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    h2 {
+      color: #2f6f6a;
+    }
+
+    .services li {
+      margin-bottom: 10px;
+    }
+
+    .contact {
+      background: #ffffff;
+      padding: 30px;
+      border-radius: 8px;
+    }
+
+    .btn {
+      display: inline-block;
+      background: #2f6f6a;
+      color: white;
+      padding: 12px 20px;
+      margin-top: 10px;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+
+    footer {
+      background: #222;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>MMM Social Workers & Associates</h1>
+  <p>Professional Social Work & Counselling Services</p>
+</header>
+
+<section>
+  <h2>About Us</h2>
+  <p>
+    MMM Social Workers & Associates is a professional social work practice
+    offering confidential, ethical, and compassionate services to individuals,
+    families, and organisations. Our focus is on promoting emotional wellbeing,
+    healing, and support across different life challenges.
+  </p>
+</section>
+
+<section>
+  <h2>Our Services</h2>
+  <ul class="services">
+    <li>Child, Family & Disability Counselling</li>
+    <li>Substance Abuse & Addiction Counselling (including gambling)</li>
+    <li>Mediation & Divorce Support</li>
+    <li>Employee Wellness Support</li>
+    <li>Bereavement Counselling</li>
+    <li>Trauma Counselling</li>
+  </ul>
+</section>
+
+<section class="contact">
+  <h2>Contact Us</h2>
+
+  <p><strong>Phone / WhatsApp:</strong> 071 041 6177</p>
+  <p><strong>Email:</strong> frankmokgehle@gmail.com</p>
+  <p><strong>Practice Number:</strong> To be updated</p>
+  <p><strong>Physical Address:</strong> To be confirmed</p>
+
+  <a class="btn" href="https://wa.me/27710416177" target="_blank">
+    Chat on WhatsApp
+  </a>
+
+  <br><br>
+
+  <a class="btn" href="mailto:frankmokgehle@gmail.com">
+    Send Email
+  </a>
+</section>
+
+<footer>
+  <p>MMM Social Workers & Associates</p>
+  <p>© 2026 All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
