@@ -786,3 +786,96 @@ section{
     color:#64748B;
 
 }
+
+
+/* ===========================
+   ABOUT
+=========================== */
+
+.about{
+
+    padding:120px 8%;
+
+    background:#ffffff;
+
+}
+
+.about-container{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+
+    gap:35px;
+
+    margin-top:60px;
+
+}
+
+.about-card{
+
+    background:#F8FAFC;
+
+    padding:45px;
+
+    border-radius:22px;
+
+    text-align:center;
+
+    border:1px solid #E2E8F0;
+
+    transition:.35s ease;
+
+}
+
+.about-card:hover{
+
+    transform:translateY(-10px);
+
+    box-shadow:0 20px 40px rgba(0,0,0,.08);
+
+}
+
+.about-icon{
+
+    width:90px;
+
+    height:90px;
+
+    border-radius:50%;
+
+    background:#ECFDF5;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    margin:auto auto 30px;
+
+}
+
+.about-icon i{
+
+    font-size:36px;
+
+    color:#0F766E;
+
+}
+
+.about-card h3{
+
+    margin-bottom:20px;
+
+    color:#0F172A;
+
+}
+
+.about-card p{
+
+    color:#64748B;
+
+    line-height:1.8;
+
+}
