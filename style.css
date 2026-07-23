@@ -140,14 +140,111 @@ font-weight:bold;
 </head>
 
 <body>
+/* ===========================
+   NAVBAR
+=========================== */
 
-<nav style="background:#ffffff;padding:15px;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,0.1);position:sticky;top:0;z-index:1000;">
-<a href="#about" style="margin:15px;text-decoration:none;color:#2f6f6a;font-weight:bold;">About</a>
-<a href="#services" style="margin:15px;text-decoration:none;color:#2f6f6a;font-weight:bold;">Services</a>
-<a href="#faq" style="margin:15px;text-decoration:none;color:#2f6f6a;font-weight:bold;">FAQ</a>
-<a href="#contact" style="margin:15px;text-decoration:none;color:#2f6f6a;font-weight:bold;">Contact</a>
-<a href="book.html" style="margin:15px;text-decoration:none;color:#2f6f6a;font-weight:bold;">Book</a>
-<a href="updates.html" style="margin:15px;text-decorationn;none;color:#2f6f6a;font-weight:bold;">Updates</a>
-<a href="referrals.html"style="margin:15px;text-decorationn;none;color:#2f6f6a;font-weight:bold;">Referrals</a>
-</nav>
+.navbar{
+
+    position:sticky;
+    top:0;
+    z-index:1000;
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    padding:18px 8%;
+
+    background:#ffffff;
+
+    border-bottom:1px solid #e5e7eb;
+
+    box-shadow:0 5px 20px rgba(0,0,0,.05);
+
+}
+
+.logo img{
+
+    width:180px;
+
+}
+
+.nav-links{
+
+    display:flex;
+
+    gap:35px;
+
+    list-style:none;
+
+    margin:0;
+
+    padding:0;
+
+}
+
+.nav-links a{
+
+    text-decoration:none;
+
+    color:#0f172a;
+
+    font-weight:600;
+
+    transition:.3s;
+
+}
+
+.nav-links a:hover{
+
+    color:#0F766E;
+
+}
+
+.book-btn{
+
+    background:#0F766E;
+
+    color:white;
+
+    text-decoration:none;
+
+    padding:14px 28px;
+
+    border-radius:12px;
+
+    font-weight:600;
+
+    transition:.3s;
+
+}
+
+.book-btn:hover{
+
+    background:#115E59;
+
+    transform:translateY(-2px);
+
+}
+
+@media(max-width:950px){
+
+.navbar{
+
+flex-direction:column;
+
+gap:20px;
+
+}
+
+.nav-links{
+
+flex-wrap:wrap;
+
+justify-content:center;
+
+}
+
+}
 
