@@ -366,15 +366,17 @@ justify-content:center;
 
 .hero p{
 
-    font-size:20px;
+    font-size: 1.15rem;
 
-    color:#475569;
+    color:#555;
 
     line-height:1.8;
 
-    max-width:700px;
+    max-width:720px;
 
-    margin:auto;
+    margin:20px auto 0;
+
+    text-align: center;
 
 }
 
