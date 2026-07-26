@@ -557,6 +557,26 @@ We are based in Midrand, South Africa and also provide selected online services.
   <p>MMM Social Workers & Associates</p>
   <p>© 2026 All Rights Reserved</p>
 </footer>
+  
+<script>
+const faqItems = document.querySelectorAll(".faq-item");
 
+faqItems.forEach(item=>{
+    const btn=item.querySelector(".faq-question");
+
+    btn.addEventListener("click",()=>{
+
+        faqItems.forEach(i=>{
+            if(i!==item){
+                i.classList.remove("active");
+            }
+        });
+
+        item.classList.toggle("active");
+
+    });
+
+});
+</script>
 </body>
 </html>
