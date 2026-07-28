@@ -660,12 +660,12 @@ section{
 }
 
 .section-title p{
-    max-width:700px;
+    max-width:650px;
     margin:auto;
     color:#666;
-    line-height:1.8;
+    font-size:0.95rem;
+    line-height:1.7;
 }
-
 .service-grid{
     display:grid;
     grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
