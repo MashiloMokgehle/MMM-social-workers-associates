@@ -931,19 +931,23 @@ section{
 }
 
 .contact-card{
-
-    background:white;
-
-    padding:40px;
-
-    text-align:center;
-
+    background:#fff;
+    padding:35px;
     border-radius:20px;
-
-    transition:.35s;
-
+    text-align:center;
+    box-shadow:0 10px 30px rgba(0,0,0,.08);
+    transition:.3s;
+    overflow-wrap:break-word;
+    word-wrap:break-word;
+    word-break:break-word;
 }
-
+.contact-card a,
+.contact-card p{
+    font-size:15px;
+    line-height:1.8;
+    overflow-wrap:break-word;
+    word-break:break-word;
+}
 .contact-card:hover{
 
     transform:translateY(-10px);
