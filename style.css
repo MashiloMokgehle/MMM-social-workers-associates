@@ -1294,3 +1294,43 @@ section{
     font-size:17px;
 
 }
+
+/* ==========================
+   UPDATES PAGE
+========================== */
+
+.page-content{
+    max-width: 900px;
+    margin: 80px auto;
+    padding: 0 20px;
+}
+
+.page-content h1{
+    font-size: 2.8rem;
+    color: #0f172a;
+    margin-bottom: 20px;
+}
+
+.page-content h2{
+    font-size: 1.8rem;
+    color: #0F766E;
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+
+.page-content p{
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.8;
+    margin-bottom: 25px;
+}
+
+.page-content .services{
+    margin-left: 20px;
+}
+
+.page-content .services li{
+    font-size: 1rem;
+    margin-bottom: 12px;
+    color: #475569;
+}
