@@ -94,13 +94,13 @@ section{
 
 .nav-links a:hover{
 
-    color:#0F766E;
+    color:#2563EB;
 
 }
 
 .book-btn{
 
-    background:#0F766E;
+    background:#2563EB;
 
     color:white;
 
@@ -118,7 +118,7 @@ section{
 
 .book-btn:hover{
 
-    background:#115E59;
+    background:#1D4ED8;
 
     transform:translateY(-2px);
 
@@ -186,7 +186,7 @@ justify-content:center;
 
     background:#ecfeff;
 
-    color:#0F766E;
+    color:#2563EB;
 
     font-weight:700;
 
@@ -238,7 +238,7 @@ justify-content:center;
 
 .primary-btn{
 
-    background:#0F766E;
+    background:#2563EB;
 
     color:white;
 
@@ -256,7 +256,7 @@ justify-content:center;
 
 .primary-btn:hover{
 
-    background:#115E59;
+    background:#1D4ED8;
 
     transform:translateY(-3px);
 
@@ -264,9 +264,9 @@ justify-content:center;
 
 .secondary-btn{
 
-    border:2px solid #0F766E;
+    border:2px solid #2563EB;
 
-    color:#0F766E;
+    color:#2563EB;
 
     padding:16px 32px;
 
@@ -282,7 +282,7 @@ justify-content:center;
 
 .secondary-btn:hover{
 
-    background:#0F766E;
+    background:#2563EB;
 
     color:white;
 
@@ -314,7 +314,7 @@ justify-content:center;
 
 .hero-tag{
 
-    color:#2f5d50;
+    color:#2563EB;
 
     font-weight:700;
 
@@ -362,7 +362,7 @@ justify-content:center;
 
 .btn-primary{
 
-    background:#2f5d50;
+    background:#2563EB;
 
     color:white;
 
@@ -384,9 +384,9 @@ justify-content:center;
 
 .btn-secondary{
 
-    border:2px solid #2f5d50;
+    border:2px solid #2563EB;
 
-    color:#2f5d50;
+    color:#2563EB;
 
     padding:16px 40px;
 
@@ -400,7 +400,7 @@ justify-content:center;
 
 .btn-secondary:hover{
 
-    background:#2f5d50;
+    background:#2563EB;
 
     color:white;
 
@@ -492,7 +492,7 @@ section{
 }
 
 .section-title span{
-    color:#3A8C7D;
+    color:#2563EB;
     font-weight:600;
     text-transform:uppercase;
     letter-spacing:2px;
@@ -597,7 +597,7 @@ section{
 
     border-radius:50%;
 
-    background:#ECFDF5;
+    background:#DBEAFE;
 
     display:flex;
 
@@ -613,7 +613,7 @@ section{
 
     font-size:38px;
 
-    color:#0F766E;
+    color:#2563EB;
 
 }
 
@@ -690,7 +690,7 @@ section{
 
     border-radius:50%;
 
-    background:#ECFDF5;
+    background:#DBEAFE;
 
     display:flex;
 
@@ -706,7 +706,7 @@ section{
 
     font-size:36px;
 
-    color:#0F766E;
+    color:#2563EB;
 
 }
 
@@ -779,7 +779,7 @@ section{
 
     height:85px;
 
-    background:#ECFDF5;
+    background:#DBEAFE;
 
     border-radius:50%;
 
@@ -797,7 +797,7 @@ section{
 
     font-size:34px;
 
-    color:#0F766E;
+    color:#2563EB;
 
 }
 
@@ -876,7 +876,7 @@ section{
 
     border-radius:50%;
 
-    background:#0F766E;
+    background:#2563EB;
 
     color:#ffffff;
 
@@ -960,7 +960,7 @@ section{
 
     font-size:38px;
 
-    color:#0F766E;
+    color:#2563EB;
 
     margin-bottom:20px;
 
@@ -987,7 +987,7 @@ section{
 .section-title{
     text-align:center;
     font-size:42px;
-    color:#2f6b5b;
+    color:#2563EB;
     margin-bottom:15px;
 }
 
@@ -1027,7 +1027,7 @@ section{
     font-size:20px;
     font-weight:600;
     cursor:pointer;
-    color:#2f6b5b;
+    color:#2563EB;
 }
 
 .faq-question span{
@@ -1061,8 +1061,8 @@ section{
 
 .page-tag{
     display:inline-block;
-    background:#E8F5F2;
-    color:#0F766E;
+    background:#EFF6FF;
+    color:#2563EB;
     padding:8px 18px;
     border-radius:30px;
     font-weight:600;
@@ -1103,7 +1103,7 @@ section{
 }
 
 .referral-card h3{
-    color:#0F766E;
+    color:#2563EB;
     margin-bottom:15px;
 }
 
@@ -1118,13 +1118,13 @@ section{
 
 .steps h2{
     text-align:center;
-    color:#0F766E;
+    color:#2563EB;
     margin-bottom:30px;
 }
 
 .step{
     background:#F8FAFC;
-    border-left:5px solid #0F766E;
+    border-left:5px solid #2563EB;
     padding:20px 25px;
     border-radius:12px;
     margin-bottom:18px;
@@ -1134,7 +1134,7 @@ section{
 .back-btn{
     display:inline-block;
     margin-top:40px;
-    background:#0F766E;
+    background:#2563EB;
     color:#fff;
     text-decoration:none;
     padding:14px 30px;
@@ -1144,5 +1144,5 @@ section{
 }
 
 .back-btn:hover{
-    background:#115E59;
+    background:#1D4ED8;
 }
